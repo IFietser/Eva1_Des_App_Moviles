@@ -109,23 +109,6 @@ Consulta `package.json` para ver los scripts exactos disponibles.
 - Usa el enrutamiento basado en archivos: para añadir una ruta nueva crea un archivo `.tsx` en `app/` o una subcarpeta con su propio `_layout.tsx` si necesitas un layout específico.
 - Mantén los recursos en `assets/images/` y referencia con `import` para asegurar el empaquetado correcto en Expo.
 
-## Pruebas
-
-No hay tests incluidos por defecto. Recomendación:
-
-- Añadir `jest` o `vitest` para tests unitarios.
-- Empezar con pruebas para `auth-context` y las funciones utilitarias.
-
-## Licencia
-
-Incluye la licencia que prefieras (por ejemplo, MIT). Este archivo no contiene licencia explícita; añade `LICENSE` si es necesario.
-
-## Contacto
-
-Si necesitas ayuda con este repositorio, deja un issue o contacta al responsable del proyecto.
-
----
-
 Resumen: este README ofrece un punto de partida para entender la estructura y cómo ejecutar el proyecto. Si quieres, puedo:
 
 - Añadir comandos exactos tomados de `package.json`.
